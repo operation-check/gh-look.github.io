@@ -13,11 +13,17 @@ Project: https://<username>.github.io/<repository>
 
 #### 1.Repositoryの作成。
 
-user: Setting>Pages：Source部分を以下のように設定する。
+#### 2.Pagesの設定。
+
+user/Organization: Setting>Pages：Source部分を以下のように設定する。
 
 ![image](https://user-images.githubusercontent.com/85093305/130390293-dbaa0d20-945d-4135-b844-7d960b511906.png)
 
-Organization/Project： 
+※対象ファイルはhttps://<usename>.github.io/ https://<Organization>.github.io 配下に直接、
+
+　或いは docs/フォルダを作成しその配下へと格納することで表示できる。
+
+Project：
 
 ①対象Repositoryに対してgh-pages branchを作成する。
 
@@ -27,7 +33,7 @@ Organization/Project：
 
 ![image](https://user-images.githubusercontent.com/85093305/130391022-20dd66c8-c7df-4386-b07c-56005e1a6673.png)
 
-#### 2.Save押下後表示されたURLをクリック。
+#### 3.Save押下後表示されたURLをクリック。
 
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 
