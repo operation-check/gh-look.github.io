@@ -3,13 +3,17 @@ GitHub Pages（Public）を確認するためのRepository
 
 ・GitHub Pagesは User/Organization/Project それぞれで作成が可能なWebページである。
 
-・以下がそれぞれのURLであるが、Setting>Pagesで設定完了時にURLへのLinkが表示されるため書式を覚える必要はない。
+・以下がそれぞれのURL形式だが、Setting>Pagesで設定完了時にURLへのLinkが表示されるため書式を覚える必要はない。
 
 User: https://<usename>.github.io
 
 Organization: https://<Organization>.github.io
 
 Project: https://<username>.github.io/<repository>
+
+※本件の場合FreeのOrganizationで作成しているため、表示URLは以下となる。
+
+`https://operation-check.github.io/gh-look.github.io/`
 
 #### 1.Repositoryの作成。
 
