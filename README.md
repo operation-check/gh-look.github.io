@@ -15,6 +15,10 @@ Project: https://<username>.github.io/<repository>
 
 `https://operation-check.github.io/gh-look.github.io/`
 
+◆◆◆手順◆◆◆
+
+※本手順は「もっとも簡単にPagesを利用する方法」であり、これがPages利用方法の全てではない。
+
 #### 1.Repositoryの作成。
 
 #### 2.Pagesの設定。
@@ -39,7 +43,7 @@ Project：
 
 #### 3.Save押下後表示されたURLをクリック。
 
-◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+◆◆◆◆◆◆
 
 ・対象ファイルが存在しない間はRedme.mdを表示。
 
